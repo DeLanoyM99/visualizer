@@ -1,0 +1,11 @@
+#navbar {
+  background-color: #696969;
+  border-radius: 7px;
+}
+
+.arraybar {
+  width: 2px;
+  background-color: #18453b;
+  display: inline-block;
+  margin: 0 1px;
+}
